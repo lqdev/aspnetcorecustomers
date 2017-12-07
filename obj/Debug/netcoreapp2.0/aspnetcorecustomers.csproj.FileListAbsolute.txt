@@ -1,0 +1,10 @@
+/Users/luisquintanilla/Documents/Development/DOTNET/aspnetcorecustomers/bin/Debug/netcoreapp2.0/aspnetcorecustomers.deps.json
+/Users/luisquintanilla/Documents/Development/DOTNET/aspnetcorecustomers/bin/Debug/netcoreapp2.0/aspnetcorecustomers.runtimeconfig.json
+/Users/luisquintanilla/Documents/Development/DOTNET/aspnetcorecustomers/bin/Debug/netcoreapp2.0/aspnetcorecustomers.runtimeconfig.dev.json
+/Users/luisquintanilla/Documents/Development/DOTNET/aspnetcorecustomers/bin/Debug/netcoreapp2.0/aspnetcorecustomers.dll
+/Users/luisquintanilla/Documents/Development/DOTNET/aspnetcorecustomers/bin/Debug/netcoreapp2.0/aspnetcorecustomers.pdb
+/Users/luisquintanilla/Documents/Development/DOTNET/aspnetcorecustomers/obj/Debug/netcoreapp2.0/aspnetcorecustomers.csproj.CoreCompileInputs.cache
+/Users/luisquintanilla/Documents/Development/DOTNET/aspnetcorecustomers/obj/Debug/netcoreapp2.0/aspnetcorecustomers.AssemblyInfoInputs.cache
+/Users/luisquintanilla/Documents/Development/DOTNET/aspnetcorecustomers/obj/Debug/netcoreapp2.0/aspnetcorecustomers.AssemblyInfo.cs
+/Users/luisquintanilla/Documents/Development/DOTNET/aspnetcorecustomers/obj/Debug/netcoreapp2.0/aspnetcorecustomers.dll
+/Users/luisquintanilla/Documents/Development/DOTNET/aspnetcorecustomers/obj/Debug/netcoreapp2.0/aspnetcorecustomers.pdb
