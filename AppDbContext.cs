@@ -4,7 +4,7 @@ namespace aspnetcorecustomers
 {
     public class AppDbContext : DbContext
     {
-        public AppDbContext(DbContextOptions options)
+        public AppDbContext(DbContextOptions options) : base(options)
         {
             
         }
