@@ -14,6 +14,9 @@ namespace aspnetcorecustomers.Pages
 
         public IList<Customer> Customers { get; private set; }
 
+        [TempData]
+        public string Message { get; set; }
+
         public IndexModel(AppDbContext db)
         {
             _db = db;

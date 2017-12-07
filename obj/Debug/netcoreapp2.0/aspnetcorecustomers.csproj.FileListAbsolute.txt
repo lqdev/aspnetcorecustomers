@@ -8,3 +8,13 @@
 /Users/luisquintanilla/Documents/Development/DOTNET/aspnetcorecustomers/obj/Debug/netcoreapp2.0/aspnetcorecustomers.AssemblyInfo.cs
 /Users/luisquintanilla/Documents/Development/DOTNET/aspnetcorecustomers/obj/Debug/netcoreapp2.0/aspnetcorecustomers.dll
 /Users/luisquintanilla/Documents/Development/DOTNET/aspnetcorecustomers/obj/Debug/netcoreapp2.0/aspnetcorecustomers.pdb
+C:\Temp\LocalDev\DOTNET\aspnetcorecustomers\bin\Debug\netcoreapp2.0\aspnetcorecustomers.deps.json
+C:\Temp\LocalDev\DOTNET\aspnetcorecustomers\bin\Debug\netcoreapp2.0\aspnetcorecustomers.runtimeconfig.json
+C:\Temp\LocalDev\DOTNET\aspnetcorecustomers\bin\Debug\netcoreapp2.0\aspnetcorecustomers.runtimeconfig.dev.json
+C:\Temp\LocalDev\DOTNET\aspnetcorecustomers\bin\Debug\netcoreapp2.0\aspnetcorecustomers.dll
+C:\Temp\LocalDev\DOTNET\aspnetcorecustomers\bin\Debug\netcoreapp2.0\aspnetcorecustomers.pdb
+C:\Temp\LocalDev\DOTNET\aspnetcorecustomers\obj\Debug\netcoreapp2.0\aspnetcorecustomers.csproj.CoreCompileInputs.cache
+C:\Temp\LocalDev\DOTNET\aspnetcorecustomers\obj\Debug\netcoreapp2.0\aspnetcorecustomers.AssemblyInfoInputs.cache
+C:\Temp\LocalDev\DOTNET\aspnetcorecustomers\obj\Debug\netcoreapp2.0\aspnetcorecustomers.AssemblyInfo.cs
+C:\Temp\LocalDev\DOTNET\aspnetcorecustomers\obj\Debug\netcoreapp2.0\aspnetcorecustomers.dll
+C:\Temp\LocalDev\DOTNET\aspnetcorecustomers\obj\Debug\netcoreapp2.0\aspnetcorecustomers.pdb
